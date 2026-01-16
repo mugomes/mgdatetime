@@ -1,7 +1,7 @@
 {
     "name": "mugomes/mgdatetime",
     "version": "1.0.0",
-    "description": "",
+    "description": "Biblioteca PHP leve para manipulação, formatação e conversão simples de datas e horas.",
     "authors": [
         {
             "name": "Murilo Gomes Julio",
