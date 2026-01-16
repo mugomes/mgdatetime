@@ -1,0 +1,21 @@
+{
+    "name": "mugomes/mgdatetime",
+    "version": "1.0.0",
+    "description": "",
+    "authors": [
+        {
+            "name": "Murilo Gomes Julio",
+            "email": "mugomesoficial@gmail.com",
+            "homepage": "https://mugomes.github.io"
+        }
+    ],
+    "license": "MIT",
+    "_comment": [
+        "Copyright (C) 2026 Murilo Gomes Julio"
+    ],
+    "autoload": {
+        "psr-4": {
+            "MGDateTime\\": "src/"
+        }
+    }
+}
