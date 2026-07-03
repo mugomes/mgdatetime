@@ -1,7 +1,9 @@
 # MGDateTime
 
-> [!NOTE]
-> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/mgdatetime
+<!-- Badge opcional para deixar claro visualmente -->
+![Status](https://img.shields.io/badge/status-arquivado--archived-red.svg)
+
+> **Aviso importante:** Está biblioteca foi **oficialmente arquivada** e não receberá mais atualizações, correções de bugs ou suporte para novas versões.
 
 Uma biblioteca PHP simples e leve para manipulação de datas e horas, focada em praticidade para tarefas comuns do dia a dia, como formatação de datas, obtenção da data/hora atual, conversão de formatos e exibição de nomes de dias e meses por extenso.
 
